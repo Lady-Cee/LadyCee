@@ -1,4 +1,3 @@
-#### Cynthia / README.md
 
 ## Hi 👋 I am Cynthia Enweonwu-Arinze
 ### Software Developer (Mobile) and a Data Analyst
