@@ -1,6 +1,6 @@
 
 ## Hi 👋 I am Cynthia Enweonwu-Arinze
-### Software Developer (Mobile) and a Data Analyst
+### Software Developer (Mobile & Web) and a Data Analyst
 
 - 🔭 I acquired my Mobile Development skills through an in-depth training program organized by Tech4Dev.
 - 🔭 I acquired my Data Analysis skills through an in-depth training program organized by Tri Jay Consulting.
